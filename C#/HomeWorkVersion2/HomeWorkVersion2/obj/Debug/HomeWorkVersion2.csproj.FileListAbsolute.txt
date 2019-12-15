@@ -1,0 +1,8 @@
+C:\Users\David\Source\Repos\HomeWorkVersion2\HomeWorkVersion2\bin\Debug\HomeWorkVersion2.exe.config
+C:\Users\David\Source\Repos\HomeWorkVersion2\HomeWorkVersion2\bin\Debug\HomeWorkVersion2.exe
+C:\Users\David\Source\Repos\HomeWorkVersion2\HomeWorkVersion2\bin\Debug\HomeWorkVersion2.pdb
+C:\Users\David\Source\Repos\HomeWorkVersion2\HomeWorkVersion2\obj\Debug\HomeWorkVersion2.csprojAssemblyReference.cache
+C:\Users\David\Source\Repos\HomeWorkVersion2\HomeWorkVersion2\obj\Debug\HomeWorkVersion2.csproj.CoreCompileInputs.cache
+C:\Users\David\Source\Repos\HomeWorkVersion2\HomeWorkVersion2\obj\Debug\HomeWorkVersion2.csproj.CopyComplete
+C:\Users\David\Source\Repos\HomeWorkVersion2\HomeWorkVersion2\obj\Debug\HomeWorkVersion2.exe
+C:\Users\David\Source\Repos\HomeWorkVersion2\HomeWorkVersion2\obj\Debug\HomeWorkVersion2.pdb

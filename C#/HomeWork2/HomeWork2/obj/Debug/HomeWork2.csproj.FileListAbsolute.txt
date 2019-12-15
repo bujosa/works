@@ -1,0 +1,9 @@
+C:\Users\David\Source\Repos\HomeWork2\HomeWork2\bin\Debug\HomeWork2.exe.config
+C:\Users\David\Source\Repos\HomeWork2\HomeWork2\bin\Debug\HomeWork2.exe
+C:\Users\David\Source\Repos\HomeWork2\HomeWork2\bin\Debug\HomeWork2.pdb
+C:\Users\David\Source\Repos\HomeWork2\HomeWork2\bin\Debug\MysteryArray.dll
+C:\Users\David\Source\Repos\HomeWork2\HomeWork2\obj\Debug\HomeWork2.csprojAssemblyReference.cache
+C:\Users\David\Source\Repos\HomeWork2\HomeWork2\obj\Debug\HomeWork2.csproj.CoreCompileInputs.cache
+C:\Users\David\Source\Repos\HomeWork2\HomeWork2\obj\Debug\HomeWork2.csproj.CopyComplete
+C:\Users\David\Source\Repos\HomeWork2\HomeWork2\obj\Debug\HomeWork2.exe
+C:\Users\David\Source\Repos\HomeWork2\HomeWork2\obj\Debug\HomeWork2.pdb

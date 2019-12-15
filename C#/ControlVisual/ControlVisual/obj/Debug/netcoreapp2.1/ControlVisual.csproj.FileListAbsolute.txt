@@ -1,0 +1,11 @@
+C:\Users\David\Desktop\Examen\ControlVisual\ControlVisual\bin\Debug\netcoreapp2.1\ControlVisual.deps.json
+C:\Users\David\Desktop\Examen\ControlVisual\ControlVisual\bin\Debug\netcoreapp2.1\ControlVisual.runtimeconfig.json
+C:\Users\David\Desktop\Examen\ControlVisual\ControlVisual\bin\Debug\netcoreapp2.1\ControlVisual.runtimeconfig.dev.json
+C:\Users\David\Desktop\Examen\ControlVisual\ControlVisual\bin\Debug\netcoreapp2.1\ControlVisual.dll
+C:\Users\David\Desktop\Examen\ControlVisual\ControlVisual\bin\Debug\netcoreapp2.1\ControlVisual.pdb
+C:\Users\David\Desktop\Examen\ControlVisual\ControlVisual\obj\Debug\netcoreapp2.1\ControlVisual.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Examen\ControlVisual\ControlVisual\obj\Debug\netcoreapp2.1\ControlVisual.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Examen\ControlVisual\ControlVisual\obj\Debug\netcoreapp2.1\ControlVisual.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\Examen\ControlVisual\ControlVisual\obj\Debug\netcoreapp2.1\ControlVisual.AssemblyInfo.cs
+C:\Users\David\Desktop\Examen\ControlVisual\ControlVisual\obj\Debug\netcoreapp2.1\ControlVisual.dll
+C:\Users\David\Desktop\Examen\ControlVisual\ControlVisual\obj\Debug\netcoreapp2.1\ControlVisual.pdb

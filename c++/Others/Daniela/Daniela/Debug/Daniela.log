@@ -1,0 +1,3 @@
+﻿  MarceloDaniela_PRACTICA05.cpp
+c:\users\david\downloads\daniela.h(63): warning C4715: 'Vehiculo::calculo': not all control paths return a value
+  Daniela.vcxproj -> C:\Users\David\Source\Repos\Daniela\Debug\Daniela.exe

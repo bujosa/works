@@ -1,0 +1,7 @@
+C:\Users\David\Source\Repos\HW4 Inoa 1\HW4 Inoa 1\bin\Debug\HW4 Inoa 1.exe.config
+C:\Users\David\Source\Repos\HW4 Inoa 1\HW4 Inoa 1\bin\Debug\HW4 Inoa 1.exe
+C:\Users\David\Source\Repos\HW4 Inoa 1\HW4 Inoa 1\bin\Debug\HW4 Inoa 1.pdb
+C:\Users\David\Source\Repos\HW4 Inoa 1\HW4 Inoa 1\obj\Debug\HW4 Inoa 1.csprojAssemblyReference.cache
+C:\Users\David\Source\Repos\HW4 Inoa 1\HW4 Inoa 1\obj\Debug\HW4 Inoa 1.csproj.CoreCompileInputs.cache
+C:\Users\David\Source\Repos\HW4 Inoa 1\HW4 Inoa 1\obj\Debug\HW4 Inoa 1.exe
+C:\Users\David\Source\Repos\HW4 Inoa 1\HW4 Inoa 1\obj\Debug\HW4 Inoa 1.pdb
