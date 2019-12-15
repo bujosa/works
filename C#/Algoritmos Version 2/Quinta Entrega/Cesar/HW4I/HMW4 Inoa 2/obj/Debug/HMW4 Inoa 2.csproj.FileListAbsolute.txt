@@ -1,0 +1,14 @@
+C:\Users\David\Source\Repos\HMW4 Inoa 2\HMW4 Inoa 2\bin\Debug\HMW4 Inoa 2.exe.config
+C:\Users\David\Source\Repos\HMW4 Inoa 2\HMW4 Inoa 2\bin\Debug\HMW4 Inoa 2.exe
+C:\Users\David\Source\Repos\HMW4 Inoa 2\HMW4 Inoa 2\bin\Debug\HMW4 Inoa 2.pdb
+C:\Users\David\Source\Repos\HMW4 Inoa 2\HMW4 Inoa 2\obj\Debug\HMW4 Inoa 2.csprojAssemblyReference.cache
+C:\Users\David\Source\Repos\HMW4 Inoa 2\HMW4 Inoa 2\obj\Debug\HMW4 Inoa 2.csproj.CoreCompileInputs.cache
+C:\Users\David\Source\Repos\HMW4 Inoa 2\HMW4 Inoa 2\obj\Debug\HMW4 Inoa 2.exe
+C:\Users\David\Source\Repos\HMW4 Inoa 2\HMW4 Inoa 2\obj\Debug\HMW4 Inoa 2.pdb
+C:\Users\David\Desktop\HW4\Cesar\HW4I\HMW4 Inoa 2\bin\Debug\HMW4 Inoa 2.exe.config
+C:\Users\David\Desktop\HW4\Cesar\HW4I\HMW4 Inoa 2\bin\Debug\HMW4 Inoa 2.exe
+C:\Users\David\Desktop\HW4\Cesar\HW4I\HMW4 Inoa 2\bin\Debug\HMW4 Inoa 2.pdb
+C:\Users\David\Desktop\HW4\Cesar\HW4I\HMW4 Inoa 2\obj\Debug\HMW4 Inoa 2.csprojAssemblyReference.cache
+C:\Users\David\Desktop\HW4\Cesar\HW4I\HMW4 Inoa 2\obj\Debug\HMW4 Inoa 2.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\HW4\Cesar\HW4I\HMW4 Inoa 2\obj\Debug\HMW4 Inoa 2.exe
+C:\Users\David\Desktop\HW4\Cesar\HW4I\HMW4 Inoa 2\obj\Debug\HMW4 Inoa 2.pdb

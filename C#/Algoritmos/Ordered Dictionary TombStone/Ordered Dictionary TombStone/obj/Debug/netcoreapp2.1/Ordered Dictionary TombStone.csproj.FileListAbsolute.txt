@@ -1,0 +1,11 @@
+C:\Users\David\Source\Repos\Ordered Dictionary TombStone\Ordered Dictionary TombStone\bin\Debug\netcoreapp2.1\Ordered Dictionary TombStone.deps.json
+C:\Users\David\Source\Repos\Ordered Dictionary TombStone\Ordered Dictionary TombStone\bin\Debug\netcoreapp2.1\Ordered Dictionary TombStone.runtimeconfig.json
+C:\Users\David\Source\Repos\Ordered Dictionary TombStone\Ordered Dictionary TombStone\bin\Debug\netcoreapp2.1\Ordered Dictionary TombStone.runtimeconfig.dev.json
+C:\Users\David\Source\Repos\Ordered Dictionary TombStone\Ordered Dictionary TombStone\bin\Debug\netcoreapp2.1\Ordered Dictionary TombStone.dll
+C:\Users\David\Source\Repos\Ordered Dictionary TombStone\Ordered Dictionary TombStone\bin\Debug\netcoreapp2.1\Ordered Dictionary TombStone.pdb
+C:\Users\David\Source\Repos\Ordered Dictionary TombStone\Ordered Dictionary TombStone\obj\Debug\netcoreapp2.1\Ordered Dictionary TombStone.csprojAssemblyReference.cache
+C:\Users\David\Source\Repos\Ordered Dictionary TombStone\Ordered Dictionary TombStone\obj\Debug\netcoreapp2.1\Ordered Dictionary TombStone.csproj.CoreCompileInputs.cache
+C:\Users\David\Source\Repos\Ordered Dictionary TombStone\Ordered Dictionary TombStone\obj\Debug\netcoreapp2.1\Ordered Dictionary TombStone.AssemblyInfoInputs.cache
+C:\Users\David\Source\Repos\Ordered Dictionary TombStone\Ordered Dictionary TombStone\obj\Debug\netcoreapp2.1\Ordered Dictionary TombStone.AssemblyInfo.cs
+C:\Users\David\Source\Repos\Ordered Dictionary TombStone\Ordered Dictionary TombStone\obj\Debug\netcoreapp2.1\Ordered Dictionary TombStone.dll
+C:\Users\David\Source\Repos\Ordered Dictionary TombStone\Ordered Dictionary TombStone\obj\Debug\netcoreapp2.1\Ordered Dictionary TombStone.pdb

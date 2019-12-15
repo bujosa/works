@@ -1,0 +1,9 @@
+C:\Users\David\Source\Repos\Inoa\Inoa\bin\Debug\Inoa.exe.config
+C:\Users\David\Source\Repos\Inoa\Inoa\bin\Debug\Inoa.exe
+C:\Users\David\Source\Repos\Inoa\Inoa\bin\Debug\Inoa.pdb
+C:\Users\David\Source\Repos\Inoa\Inoa\bin\Debug\PriorityQueue.dll
+C:\Users\David\Source\Repos\Inoa\Inoa\obj\Debug\Inoa.csprojAssemblyReference.cache
+C:\Users\David\Source\Repos\Inoa\Inoa\obj\Debug\Inoa.csproj.CoreCompileInputs.cache
+C:\Users\David\Source\Repos\Inoa\Inoa\obj\Debug\Inoa.csproj.CopyComplete
+C:\Users\David\Source\Repos\Inoa\Inoa\obj\Debug\Inoa.exe
+C:\Users\David\Source\Repos\Inoa\Inoa\obj\Debug\Inoa.pdb

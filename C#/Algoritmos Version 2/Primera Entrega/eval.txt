@@ -1,0 +1,9 @@
+@ HW1x: 7 / 7
+* Aunque No entendi todos esos IFs que tienes, tu programa funciona
+
+
+@ HW1m: 9 / 9
+= OK
+
+
+

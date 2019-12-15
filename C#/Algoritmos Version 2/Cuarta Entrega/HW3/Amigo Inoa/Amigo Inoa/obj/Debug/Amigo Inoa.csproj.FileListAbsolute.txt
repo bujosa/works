@@ -1,0 +1,7 @@
+C:\Users\David\Desktop\HW3\Amigo Inoa\Amigo Inoa\bin\Debug\Amigo Inoa.exe.config
+C:\Users\David\Desktop\HW3\Amigo Inoa\Amigo Inoa\bin\Debug\Amigo Inoa.exe
+C:\Users\David\Desktop\HW3\Amigo Inoa\Amigo Inoa\bin\Debug\Amigo Inoa.pdb
+C:\Users\David\Desktop\HW3\Amigo Inoa\Amigo Inoa\obj\Debug\Amigo Inoa.csprojAssemblyReference.cache
+C:\Users\David\Desktop\HW3\Amigo Inoa\Amigo Inoa\obj\Debug\Amigo Inoa.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\HW3\Amigo Inoa\Amigo Inoa\obj\Debug\Amigo Inoa.exe
+C:\Users\David\Desktop\HW3\Amigo Inoa\Amigo Inoa\obj\Debug\Amigo Inoa.pdb

@@ -1,0 +1,11 @@
+C:\Users\David\Source\Repos\Polinomio Linked List\Polinomio Linked List\obj\Debug\netcoreapp2.1\Polinomio Linked List.csprojAssemblyReference.cache
+C:\Users\David\Source\Repos\Polinomio Linked List\Polinomio Linked List\obj\Debug\netcoreapp2.1\Polinomio Linked List.csproj.CoreCompileInputs.cache
+C:\Users\David\Source\Repos\Polinomio Linked List\Polinomio Linked List\obj\Debug\netcoreapp2.1\Polinomio Linked List.AssemblyInfoInputs.cache
+C:\Users\David\Source\Repos\Polinomio Linked List\Polinomio Linked List\obj\Debug\netcoreapp2.1\Polinomio Linked List.AssemblyInfo.cs
+C:\Users\David\Source\Repos\Polinomio Linked List\Polinomio Linked List\bin\Debug\netcoreapp2.1\Polinomio Linked List.deps.json
+C:\Users\David\Source\Repos\Polinomio Linked List\Polinomio Linked List\bin\Debug\netcoreapp2.1\Polinomio Linked List.runtimeconfig.json
+C:\Users\David\Source\Repos\Polinomio Linked List\Polinomio Linked List\bin\Debug\netcoreapp2.1\Polinomio Linked List.runtimeconfig.dev.json
+C:\Users\David\Source\Repos\Polinomio Linked List\Polinomio Linked List\bin\Debug\netcoreapp2.1\Polinomio Linked List.dll
+C:\Users\David\Source\Repos\Polinomio Linked List\Polinomio Linked List\bin\Debug\netcoreapp2.1\Polinomio Linked List.pdb
+C:\Users\David\Source\Repos\Polinomio Linked List\Polinomio Linked List\obj\Debug\netcoreapp2.1\Polinomio Linked List.dll
+C:\Users\David\Source\Repos\Polinomio Linked List\Polinomio Linked List\obj\Debug\netcoreapp2.1\Polinomio Linked List.pdb

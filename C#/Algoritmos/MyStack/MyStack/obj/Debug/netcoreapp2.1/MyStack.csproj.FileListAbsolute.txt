@@ -1,0 +1,11 @@
+C:\Users\David\Source\Repos\MyStack\MyStack\bin\Debug\netcoreapp2.1\MyStack.deps.json
+C:\Users\David\Source\Repos\MyStack\MyStack\bin\Debug\netcoreapp2.1\MyStack.runtimeconfig.json
+C:\Users\David\Source\Repos\MyStack\MyStack\bin\Debug\netcoreapp2.1\MyStack.runtimeconfig.dev.json
+C:\Users\David\Source\Repos\MyStack\MyStack\bin\Debug\netcoreapp2.1\MyStack.dll
+C:\Users\David\Source\Repos\MyStack\MyStack\bin\Debug\netcoreapp2.1\MyStack.pdb
+C:\Users\David\Source\Repos\MyStack\MyStack\obj\Debug\netcoreapp2.1\MyStack.csprojAssemblyReference.cache
+C:\Users\David\Source\Repos\MyStack\MyStack\obj\Debug\netcoreapp2.1\MyStack.csproj.CoreCompileInputs.cache
+C:\Users\David\Source\Repos\MyStack\MyStack\obj\Debug\netcoreapp2.1\MyStack.AssemblyInfoInputs.cache
+C:\Users\David\Source\Repos\MyStack\MyStack\obj\Debug\netcoreapp2.1\MyStack.AssemblyInfo.cs
+C:\Users\David\Source\Repos\MyStack\MyStack\obj\Debug\netcoreapp2.1\MyStack.dll
+C:\Users\David\Source\Repos\MyStack\MyStack\obj\Debug\netcoreapp2.1\MyStack.pdb

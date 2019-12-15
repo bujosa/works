@@ -1,0 +1,7 @@
+C:\Users\David\Source\Repos\MyClassList\MyClassList\obj\Debug\MyClassList.csprojAssemblyReference.cache
+C:\Users\David\Source\Repos\MyClassList\MyClassList\obj\Debug\MyClassList.csproj.CoreCompileInputs.cache
+C:\Users\David\Source\Repos\MyClassList\MyClassList\bin\Debug\MyClassList.exe.config
+C:\Users\David\Source\Repos\MyClassList\MyClassList\bin\Debug\MyClassList.exe
+C:\Users\David\Source\Repos\MyClassList\MyClassList\bin\Debug\MyClassList.pdb
+C:\Users\David\Source\Repos\MyClassList\MyClassList\obj\Debug\MyClassList.exe
+C:\Users\David\Source\Repos\MyClassList\MyClassList\obj\Debug\MyClassList.pdb

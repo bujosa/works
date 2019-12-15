@@ -1,0 +1,11 @@
+C:\Users\David\Source\Repos\No to the List\No to the List\bin\Debug\netcoreapp2.1\No to the List.deps.json
+C:\Users\David\Source\Repos\No to the List\No to the List\bin\Debug\netcoreapp2.1\No to the List.runtimeconfig.json
+C:\Users\David\Source\Repos\No to the List\No to the List\bin\Debug\netcoreapp2.1\No to the List.runtimeconfig.dev.json
+C:\Users\David\Source\Repos\No to the List\No to the List\bin\Debug\netcoreapp2.1\No to the List.dll
+C:\Users\David\Source\Repos\No to the List\No to the List\bin\Debug\netcoreapp2.1\No to the List.pdb
+C:\Users\David\Source\Repos\No to the List\No to the List\obj\Debug\netcoreapp2.1\No to the List.csprojAssemblyReference.cache
+C:\Users\David\Source\Repos\No to the List\No to the List\obj\Debug\netcoreapp2.1\No to the List.csproj.CoreCompileInputs.cache
+C:\Users\David\Source\Repos\No to the List\No to the List\obj\Debug\netcoreapp2.1\No to the List.AssemblyInfoInputs.cache
+C:\Users\David\Source\Repos\No to the List\No to the List\obj\Debug\netcoreapp2.1\No to the List.AssemblyInfo.cs
+C:\Users\David\Source\Repos\No to the List\No to the List\obj\Debug\netcoreapp2.1\No to the List.dll
+C:\Users\David\Source\Repos\No to the List\No to the List\obj\Debug\netcoreapp2.1\No to the List.pdb

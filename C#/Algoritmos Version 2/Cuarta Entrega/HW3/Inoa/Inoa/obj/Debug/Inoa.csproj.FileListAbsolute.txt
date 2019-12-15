@@ -1,0 +1,7 @@
+C:\Users\David\Desktop\HW3\Inoa\Inoa\bin\Debug\Inoa.exe.config
+C:\Users\David\Desktop\HW3\Inoa\Inoa\bin\Debug\Inoa.exe
+C:\Users\David\Desktop\HW3\Inoa\Inoa\bin\Debug\Inoa.pdb
+C:\Users\David\Desktop\HW3\Inoa\Inoa\obj\Debug\Inoa.csprojAssemblyReference.cache
+C:\Users\David\Desktop\HW3\Inoa\Inoa\obj\Debug\Inoa.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\HW3\Inoa\Inoa\obj\Debug\Inoa.exe
+C:\Users\David\Desktop\HW3\Inoa\Inoa\obj\Debug\Inoa.pdb

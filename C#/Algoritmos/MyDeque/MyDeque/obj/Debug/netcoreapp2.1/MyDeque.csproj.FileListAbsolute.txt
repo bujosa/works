@@ -1,0 +1,11 @@
+C:\Users\David\Source\Repos\MyDeque\MyDeque\bin\Debug\netcoreapp2.1\MyDeque.deps.json
+C:\Users\David\Source\Repos\MyDeque\MyDeque\bin\Debug\netcoreapp2.1\MyDeque.runtimeconfig.json
+C:\Users\David\Source\Repos\MyDeque\MyDeque\bin\Debug\netcoreapp2.1\MyDeque.runtimeconfig.dev.json
+C:\Users\David\Source\Repos\MyDeque\MyDeque\bin\Debug\netcoreapp2.1\MyDeque.dll
+C:\Users\David\Source\Repos\MyDeque\MyDeque\bin\Debug\netcoreapp2.1\MyDeque.pdb
+C:\Users\David\Source\Repos\MyDeque\MyDeque\obj\Debug\netcoreapp2.1\MyDeque.csprojAssemblyReference.cache
+C:\Users\David\Source\Repos\MyDeque\MyDeque\obj\Debug\netcoreapp2.1\MyDeque.csproj.CoreCompileInputs.cache
+C:\Users\David\Source\Repos\MyDeque\MyDeque\obj\Debug\netcoreapp2.1\MyDeque.AssemblyInfoInputs.cache
+C:\Users\David\Source\Repos\MyDeque\MyDeque\obj\Debug\netcoreapp2.1\MyDeque.AssemblyInfo.cs
+C:\Users\David\Source\Repos\MyDeque\MyDeque\obj\Debug\netcoreapp2.1\MyDeque.dll
+C:\Users\David\Source\Repos\MyDeque\MyDeque\obj\Debug\netcoreapp2.1\MyDeque.pdb
