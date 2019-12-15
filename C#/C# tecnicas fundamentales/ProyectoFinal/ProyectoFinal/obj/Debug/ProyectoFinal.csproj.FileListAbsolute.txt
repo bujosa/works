@@ -1,0 +1,72 @@
+C:\Users\David\Source\Repos\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\David\Source\Repos\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\David\Source\Repos\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\David\Source\Repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csprojAssemblyReference.cache
+C:\Users\David\Source\Repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Login.resources
+C:\Users\David\Source\Repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\David\Source\Repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\David\Source\Repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\David\Source\Repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\David\Source\Repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\David\Source\Repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form1.resources
+C:\Users\David\Source\Repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Listar.resources
+C:\Users\David\Source\Repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Agregar.resources
+C:\Users\David\Source\Repos\ProyectoFinal\ProyectoFinal\bin\Debug\Estudiante2.mdf
+C:\Users\David\Source\Repos\ProyectoFinal\ProyectoFinal\bin\Debug\Estudiante2_log.ldf
+C:\Users\David\Source\Repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.modificar.resources
+C:\Users\David\Source\Repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.MateriaMenu.resources
+C:\Users\David\Source\Repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.ListarMaterias.resources
+C:\Users\David\Source\Repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.EditarMateria.resources
+C:\Users\David\Source\Repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.MenuEstudiante.resources
+C:\Users\David\Source\Repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.EstudianteMateria.resources
+C:\Users\David\Source\Repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.EstudianteLogin.resources
+C:\Users\David\Source\Repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.historial.resources
+C:\Users\David\Source\Repos\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.ModificarUsuario.resources
+C:\Users\David\Desktop\ProyectoFinal\ProyectoFinal\bin\Debug\Estudiante2.mdf
+C:\Users\David\Desktop\ProyectoFinal\ProyectoFinal\bin\Debug\Estudiante2_log.ldf
+C:\Users\David\Desktop\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\David\Desktop\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\David\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csprojAssemblyReference.cache
+C:\Users\David\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Agregar.resources
+C:\Users\David\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.EditarMateria.resources
+C:\Users\David\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.EstudianteLogin.resources
+C:\Users\David\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.historial.resources
+C:\Users\David\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.EstudianteMateria.resources
+C:\Users\David\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form1.resources
+C:\Users\David\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Listar.resources
+C:\Users\David\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.ListarMaterias.resources
+C:\Users\David\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Login.resources
+C:\Users\David\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.MateriaMenu.resources
+C:\Users\David\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.MenuEstudiante.resources
+C:\Users\David\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.modificar.resources
+C:\Users\David\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.ModificarUsuario.resources
+C:\Users\David\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\David\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\David\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\David\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\David\Desktop\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\David\Desktop\General\Trabajo Francia\C#\ProyectoFinal\ProyectoFinal\bin\Debug\Estudiante2.mdf
+C:\Users\David\Desktop\General\Trabajo Francia\C#\ProyectoFinal\ProyectoFinal\bin\Debug\Estudiante2_log.ldf
+C:\Users\David\Desktop\General\Trabajo Francia\C#\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\David\Desktop\General\Trabajo Francia\C#\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\David\Desktop\General\Trabajo Francia\C#\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\David\Desktop\General\Trabajo Francia\C#\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csprojAssemblyReference.cache
+C:\Users\David\Desktop\General\Trabajo Francia\C#\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Agregar.resources
+C:\Users\David\Desktop\General\Trabajo Francia\C#\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.EditarMateria.resources
+C:\Users\David\Desktop\General\Trabajo Francia\C#\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.EstudianteLogin.resources
+C:\Users\David\Desktop\General\Trabajo Francia\C#\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.historial.resources
+C:\Users\David\Desktop\General\Trabajo Francia\C#\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.EstudianteMateria.resources
+C:\Users\David\Desktop\General\Trabajo Francia\C#\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form1.resources
+C:\Users\David\Desktop\General\Trabajo Francia\C#\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Listar.resources
+C:\Users\David\Desktop\General\Trabajo Francia\C#\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.ListarMaterias.resources
+C:\Users\David\Desktop\General\Trabajo Francia\C#\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Login.resources
+C:\Users\David\Desktop\General\Trabajo Francia\C#\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.MateriaMenu.resources
+C:\Users\David\Desktop\General\Trabajo Francia\C#\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.MenuEstudiante.resources
+C:\Users\David\Desktop\General\Trabajo Francia\C#\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.modificar.resources
+C:\Users\David\Desktop\General\Trabajo Francia\C#\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.ModificarUsuario.resources
+C:\Users\David\Desktop\General\Trabajo Francia\C#\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\David\Desktop\General\Trabajo Francia\C#\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\David\Desktop\General\Trabajo Francia\C#\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\General\Trabajo Francia\C#\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\David\Desktop\General\Trabajo Francia\C#\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb

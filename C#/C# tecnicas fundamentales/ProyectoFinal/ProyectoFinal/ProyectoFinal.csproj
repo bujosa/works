@@ -1,0 +1,301 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{55C2E278-F37B-40DE-A3A5-C9F3710DAA7E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ProyectoFinal</RootNamespace>
+    <AssemblyName>ProyectoFinal</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>student-cap-books_icon-icons.com_49273.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Agregar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Agregar.Designer.cs">
+      <DependentUpon>Agregar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditarMateria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditarMateria.Designer.cs">
+      <DependentUpon>EditarMateria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Estudiante.cs" />
+    <Compile Include="EstudianteLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EstudianteLogin.Designer.cs">
+      <DependentUpon>EstudianteLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="historial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="historial.Designer.cs">
+      <DependentUpon>historial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EstudianteMateria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EstudianteMateria.Designer.cs">
+      <DependentUpon>EstudianteMateria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuEstudiante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuEstudiante.Designer.cs">
+      <DependentUpon>MenuEstudiante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModificarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModificarUsuario.Designer.cs">
+      <DependentUpon>ModificarUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="usuario.cs" />
+    <Compile Include="Estudiante2DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Estudiante2DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Estudiante2DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Estudiante2DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Listar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listar.Designer.cs">
+      <DependentUpon>Listar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListarMaterias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListarMaterias.Designer.cs">
+      <DependentUpon>ListarMaterias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="materia.cs" />
+    <Compile Include="MateriaMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MateriaMenu.Designer.cs">
+      <DependentUpon>MateriaMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="modificar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modificar.Designer.cs">
+      <DependentUpon>modificar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Agregar.resx">
+      <DependentUpon>Agregar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditarMateria.resx">
+      <DependentUpon>EditarMateria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EstudianteLogin.resx">
+      <DependentUpon>EstudianteLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="historial.resx">
+      <DependentUpon>historial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EstudianteMateria.resx">
+      <DependentUpon>EstudianteMateria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listar.resx">
+      <DependentUpon>Listar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListarMaterias.resx">
+      <DependentUpon>ListarMaterias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MateriaMenu.resx">
+      <DependentUpon>MateriaMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuEstudiante.resx">
+      <DependentUpon>MenuEstudiante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="modificar.resx">
+      <DependentUpon>modificar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModificarUsuario.resx">
+      <DependentUpon>ModificarUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Estudiante2DataSet.xsc">
+      <DependentUpon>Estudiante2DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Estudiante2DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Estudiante2DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Estudiante2DataSet.xss">
+      <DependentUpon>Estudiante2DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Estudiante2DataSet1.xsc">
+      <DependentUpon>Estudiante2DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Estudiante2DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Estudiante2DataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Estudiante2DataSet1.xss">
+      <DependentUpon>Estudiante2DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\untitledw.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\panal.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button-salir.png" />
+    <None Include="Resources\thin-gray-login-button-hi.png" />
+    <None Include="Resources\Login-button.png" />
+    <Content Include="Estudiante2.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Estudiante2_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>Estudiante2.mdf</DependentUpon>
+    </Content>
+    <None Include="Resources\1881.png" />
+    <None Include="Resources\canceltheapplication_cancelar_2901.png" />
+    <None Include="Resources\64508.png" />
+    <None Include="Resources\61848.png" />
+    <None Include="Resources\bbbbe23abcae4390c132e229053fe77c.png" />
+    <None Include="Resources\BUSCAR.png" />
+    <None Include="Resources\contenidos.png" />
+    <None Include="Resources\iconos_estudiante.png" />
+    <None Include="Resources\lock-open-blue.png" />
+    <None Include="Resources\1524764453.png" />
+    <None Include="Resources\descarga.png" />
+    <None Include="Resources\Repeat_font_awesome.svg_.png" />
+    <None Include="Resources\UserEdit_40958.png" />
+    <None Include="Resources\edit-validated_40458.png" />
+    <None Include="Resources\writeanote_79997.png" />
+    <None Include="Resources\30920.png" />
+    <None Include="Resources\estudiante.png" />
+    <None Include="Resources\untitledw1.png" />
+    <None Include="Resources\History-Folder-Blue-icon.png" />
+    <None Include="Resources\depositphotos_51580439-stock-illustration-ranking-blue-3d-realistic-square.jpg" />
+    <None Include="Resources\Control-Panel-icon.png" />
+    <None Include="Resources\images.png" />
+    <None Include="Resources\Info.png" />
+    <Content Include="student-cap-books_icon-icons.com_49273.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
