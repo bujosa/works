@@ -1,0 +1,11 @@
+C:\Users\David\Source\Repos\Lab3v Practica Joa BST\Lab3v Practica Joa BST\bin\Debug\netcoreapp2.1\Lab3v Practica Joa BST.deps.json
+C:\Users\David\Source\Repos\Lab3v Practica Joa BST\Lab3v Practica Joa BST\bin\Debug\netcoreapp2.1\Lab3v Practica Joa BST.runtimeconfig.json
+C:\Users\David\Source\Repos\Lab3v Practica Joa BST\Lab3v Practica Joa BST\bin\Debug\netcoreapp2.1\Lab3v Practica Joa BST.runtimeconfig.dev.json
+C:\Users\David\Source\Repos\Lab3v Practica Joa BST\Lab3v Practica Joa BST\bin\Debug\netcoreapp2.1\Lab3v Practica Joa BST.dll
+C:\Users\David\Source\Repos\Lab3v Practica Joa BST\Lab3v Practica Joa BST\bin\Debug\netcoreapp2.1\Lab3v Practica Joa BST.pdb
+C:\Users\David\Source\Repos\Lab3v Practica Joa BST\Lab3v Practica Joa BST\obj\Debug\netcoreapp2.1\Lab3v Practica Joa BST.csprojAssemblyReference.cache
+C:\Users\David\Source\Repos\Lab3v Practica Joa BST\Lab3v Practica Joa BST\obj\Debug\netcoreapp2.1\Lab3v Practica Joa BST.csproj.CoreCompileInputs.cache
+C:\Users\David\Source\Repos\Lab3v Practica Joa BST\Lab3v Practica Joa BST\obj\Debug\netcoreapp2.1\Lab3v Practica Joa BST.AssemblyInfoInputs.cache
+C:\Users\David\Source\Repos\Lab3v Practica Joa BST\Lab3v Practica Joa BST\obj\Debug\netcoreapp2.1\Lab3v Practica Joa BST.AssemblyInfo.cs
+C:\Users\David\Source\Repos\Lab3v Practica Joa BST\Lab3v Practica Joa BST\obj\Debug\netcoreapp2.1\Lab3v Practica Joa BST.dll
+C:\Users\David\Source\Repos\Lab3v Practica Joa BST\Lab3v Practica Joa BST\obj\Debug\netcoreapp2.1\Lab3v Practica Joa BST.pdb

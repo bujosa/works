@@ -1,0 +1,8 @@
+C:\Users\David\Source\Repos\InfinityStones\InfinityStones\bin\Debug\InfinityStones.exe.config
+C:\Users\David\Source\Repos\InfinityStones\InfinityStones\bin\Debug\InfinityStones.exe
+C:\Users\David\Source\Repos\InfinityStones\InfinityStones\bin\Debug\InfinityStones.pdb
+C:\Users\David\Source\Repos\InfinityStones\InfinityStones\obj\Debug\InfinityStones.csprojAssemblyReference.cache
+C:\Users\David\Source\Repos\InfinityStones\InfinityStones\obj\Debug\InfinityStones.csproj.CoreCompileInputs.cache
+C:\Users\David\Source\Repos\InfinityStones\InfinityStones\obj\Debug\InfinityStones.csproj.CopyComplete
+C:\Users\David\Source\Repos\InfinityStones\InfinityStones\obj\Debug\InfinityStones.exe
+C:\Users\David\Source\Repos\InfinityStones\InfinityStones\obj\Debug\InfinityStones.pdb

@@ -1,0 +1,22 @@
+C:\Users\David\Source\Repos\JSum\JSum\bin\Debug\netcoreapp2.1\JSum.deps.json
+C:\Users\David\Source\Repos\JSum\JSum\bin\Debug\netcoreapp2.1\JSum.runtimeconfig.json
+C:\Users\David\Source\Repos\JSum\JSum\bin\Debug\netcoreapp2.1\JSum.runtimeconfig.dev.json
+C:\Users\David\Source\Repos\JSum\JSum\bin\Debug\netcoreapp2.1\JSum.dll
+C:\Users\David\Source\Repos\JSum\JSum\bin\Debug\netcoreapp2.1\JSum.pdb
+C:\Users\David\Source\Repos\JSum\JSum\obj\Debug\netcoreapp2.1\JSum.csprojAssemblyReference.cache
+C:\Users\David\Source\Repos\JSum\JSum\obj\Debug\netcoreapp2.1\JSum.csproj.CoreCompileInputs.cache
+C:\Users\David\Source\Repos\JSum\JSum\obj\Debug\netcoreapp2.1\JSum.AssemblyInfoInputs.cache
+C:\Users\David\Source\Repos\JSum\JSum\obj\Debug\netcoreapp2.1\JSum.AssemblyInfo.cs
+C:\Users\David\Source\Repos\JSum\JSum\obj\Debug\netcoreapp2.1\JSum.dll
+C:\Users\David\Source\Repos\JSum\JSum\obj\Debug\netcoreapp2.1\JSum.pdb
+C:\Users\David\OneDrive - Instituto Tecnologico de Santo Domingo (INTEC)\Archivos Generales\Programacion\Practica\JSum\JSum\bin\Debug\netcoreapp2.1\JSum.deps.json
+C:\Users\David\OneDrive - Instituto Tecnologico de Santo Domingo (INTEC)\Archivos Generales\Programacion\Practica\JSum\JSum\bin\Debug\netcoreapp2.1\JSum.runtimeconfig.json
+C:\Users\David\OneDrive - Instituto Tecnologico de Santo Domingo (INTEC)\Archivos Generales\Programacion\Practica\JSum\JSum\bin\Debug\netcoreapp2.1\JSum.runtimeconfig.dev.json
+C:\Users\David\OneDrive - Instituto Tecnologico de Santo Domingo (INTEC)\Archivos Generales\Programacion\Practica\JSum\JSum\bin\Debug\netcoreapp2.1\JSum.dll
+C:\Users\David\OneDrive - Instituto Tecnologico de Santo Domingo (INTEC)\Archivos Generales\Programacion\Practica\JSum\JSum\bin\Debug\netcoreapp2.1\JSum.pdb
+C:\Users\David\OneDrive - Instituto Tecnologico de Santo Domingo (INTEC)\Archivos Generales\Programacion\Practica\JSum\JSum\obj\Debug\netcoreapp2.1\JSum.csprojAssemblyReference.cache
+C:\Users\David\OneDrive - Instituto Tecnologico de Santo Domingo (INTEC)\Archivos Generales\Programacion\Practica\JSum\JSum\obj\Debug\netcoreapp2.1\JSum.csproj.CoreCompileInputs.cache
+C:\Users\David\OneDrive - Instituto Tecnologico de Santo Domingo (INTEC)\Archivos Generales\Programacion\Practica\JSum\JSum\obj\Debug\netcoreapp2.1\JSum.AssemblyInfoInputs.cache
+C:\Users\David\OneDrive - Instituto Tecnologico de Santo Domingo (INTEC)\Archivos Generales\Programacion\Practica\JSum\JSum\obj\Debug\netcoreapp2.1\JSum.AssemblyInfo.cs
+C:\Users\David\OneDrive - Instituto Tecnologico de Santo Domingo (INTEC)\Archivos Generales\Programacion\Practica\JSum\JSum\obj\Debug\netcoreapp2.1\JSum.dll
+C:\Users\David\OneDrive - Instituto Tecnologico de Santo Domingo (INTEC)\Archivos Generales\Programacion\Practica\JSum\JSum\obj\Debug\netcoreapp2.1\JSum.pdb

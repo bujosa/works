@@ -1,0 +1,11 @@
+C:\Users\David\Source\Repos\Lab1v\Lab1v\bin\Debug\netcoreapp2.1\Lab1v.deps.json
+C:\Users\David\Source\Repos\Lab1v\Lab1v\bin\Debug\netcoreapp2.1\Lab1v.runtimeconfig.json
+C:\Users\David\Source\Repos\Lab1v\Lab1v\bin\Debug\netcoreapp2.1\Lab1v.runtimeconfig.dev.json
+C:\Users\David\Source\Repos\Lab1v\Lab1v\bin\Debug\netcoreapp2.1\Lab1v.dll
+C:\Users\David\Source\Repos\Lab1v\Lab1v\bin\Debug\netcoreapp2.1\Lab1v.pdb
+C:\Users\David\Source\Repos\Lab1v\Lab1v\obj\Debug\netcoreapp2.1\Lab1v.csprojAssemblyReference.cache
+C:\Users\David\Source\Repos\Lab1v\Lab1v\obj\Debug\netcoreapp2.1\Lab1v.csproj.CoreCompileInputs.cache
+C:\Users\David\Source\Repos\Lab1v\Lab1v\obj\Debug\netcoreapp2.1\Lab1v.AssemblyInfoInputs.cache
+C:\Users\David\Source\Repos\Lab1v\Lab1v\obj\Debug\netcoreapp2.1\Lab1v.AssemblyInfo.cs
+C:\Users\David\Source\Repos\Lab1v\Lab1v\obj\Debug\netcoreapp2.1\Lab1v.dll
+C:\Users\David\Source\Repos\Lab1v\Lab1v\obj\Debug\netcoreapp2.1\Lab1v.pdb

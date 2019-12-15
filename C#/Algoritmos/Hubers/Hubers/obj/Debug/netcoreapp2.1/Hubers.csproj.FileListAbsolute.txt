@@ -1,0 +1,11 @@
+C:\Users\David\Source\Repos\Hubers\Hubers\bin\Debug\netcoreapp2.1\Hubers.deps.json
+C:\Users\David\Source\Repos\Hubers\Hubers\bin\Debug\netcoreapp2.1\Hubers.runtimeconfig.json
+C:\Users\David\Source\Repos\Hubers\Hubers\bin\Debug\netcoreapp2.1\Hubers.runtimeconfig.dev.json
+C:\Users\David\Source\Repos\Hubers\Hubers\bin\Debug\netcoreapp2.1\Hubers.dll
+C:\Users\David\Source\Repos\Hubers\Hubers\bin\Debug\netcoreapp2.1\Hubers.pdb
+C:\Users\David\Source\Repos\Hubers\Hubers\obj\Debug\netcoreapp2.1\Hubers.csprojAssemblyReference.cache
+C:\Users\David\Source\Repos\Hubers\Hubers\obj\Debug\netcoreapp2.1\Hubers.csproj.CoreCompileInputs.cache
+C:\Users\David\Source\Repos\Hubers\Hubers\obj\Debug\netcoreapp2.1\Hubers.AssemblyInfoInputs.cache
+C:\Users\David\Source\Repos\Hubers\Hubers\obj\Debug\netcoreapp2.1\Hubers.AssemblyInfo.cs
+C:\Users\David\Source\Repos\Hubers\Hubers\obj\Debug\netcoreapp2.1\Hubers.dll
+C:\Users\David\Source\Repos\Hubers\Hubers\obj\Debug\netcoreapp2.1\Hubers.pdb

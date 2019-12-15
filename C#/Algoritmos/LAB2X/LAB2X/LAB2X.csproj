@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="LB">
+      <HintPath>..\..\..\..\OneDrive - Instituto Tecnologico de Santo Domingo (INTEC)\Trimestre 8\Algoritmo y Estructura de datos II\Laboratorios\3. Lab\Lab2\LB.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

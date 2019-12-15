@@ -1,0 +1,13 @@
+C:\Users\David\Source\Repos\LAB2X\LAB2X\bin\Debug\netcoreapp2.1\LAB2X.deps.json
+C:\Users\David\Source\Repos\LAB2X\LAB2X\bin\Debug\netcoreapp2.1\LAB2X.runtimeconfig.json
+C:\Users\David\Source\Repos\LAB2X\LAB2X\bin\Debug\netcoreapp2.1\LAB2X.runtimeconfig.dev.json
+C:\Users\David\Source\Repos\LAB2X\LAB2X\bin\Debug\netcoreapp2.1\LAB2X.dll
+C:\Users\David\Source\Repos\LAB2X\LAB2X\bin\Debug\netcoreapp2.1\LAB2X.pdb
+C:\Users\David\Source\Repos\LAB2X\LAB2X\bin\Debug\netcoreapp2.1\LB.dll
+C:\Users\David\Source\Repos\LAB2X\LAB2X\obj\Debug\netcoreapp2.1\LAB2X.csprojAssemblyReference.cache
+C:\Users\David\Source\Repos\LAB2X\LAB2X\obj\Debug\netcoreapp2.1\LAB2X.csproj.CoreCompileInputs.cache
+C:\Users\David\Source\Repos\LAB2X\LAB2X\obj\Debug\netcoreapp2.1\LAB2X.AssemblyInfoInputs.cache
+C:\Users\David\Source\Repos\LAB2X\LAB2X\obj\Debug\netcoreapp2.1\LAB2X.AssemblyInfo.cs
+C:\Users\David\Source\Repos\LAB2X\LAB2X\obj\Debug\netcoreapp2.1\LAB2X.csproj.CopyComplete
+C:\Users\David\Source\Repos\LAB2X\LAB2X\obj\Debug\netcoreapp2.1\LAB2X.dll
+C:\Users\David\Source\Repos\LAB2X\LAB2X\obj\Debug\netcoreapp2.1\LAB2X.pdb
