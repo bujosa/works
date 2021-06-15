@@ -1,3 +1,0 @@
-﻿  Luis_Fernandez.cpp
-c:\users\david\source\repos\luis_fernandez\luis_fernandez\luis_fernandez.cpp(29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-  Luis_Fernandez.vcxproj -> C:\Users\David\Source\Repos\Luis_Fernandez\Debug\Luis_Fernandez.exe

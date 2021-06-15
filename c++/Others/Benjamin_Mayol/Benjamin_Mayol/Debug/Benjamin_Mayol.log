@@ -1,3 +1,0 @@
-﻿  Benjamin_Mayol.cpp
-c:\users\david\source\repos\benjamin_mayol\benjamin_mayol\benjamin_mayol.h(79): warning C4244: 'return': conversion from 'long double' to 'float', possible loss of data
-  Benjamin_Mayol.vcxproj -> C:\Users\David\Source\Repos\Benjamin_Mayol\Debug\Benjamin_Mayol.exe
